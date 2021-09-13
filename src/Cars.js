@@ -55,6 +55,5 @@ render () {
   );
 }
 }
-
 Cars.contextType = MyContext;
 export default Cars;
